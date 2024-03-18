@@ -13,7 +13,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   tags = "/blog/:slug"
 
 [params]
-  description = "taking pilgrimage in a new light"
+  description = "taking pilgrimage in a new light the open-source way"
   favicon = "images/favicon.png"
   images = ["images/share.png"]
   title = "walk ⬡ talk ⬡ meditate"
