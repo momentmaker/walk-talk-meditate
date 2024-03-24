@@ -16,7 +16,7 @@ The [routes](/routes) will be updated with various routes that people have taken
 
 `walk` - there is something about walking that stimulates the flow of a conversation in a spontenous way - strengthening the physical body
 
-`talk` - ask and share your own unique perspective of the nature of reality we all share - expanding the conceptual mind
+`talk` - ask and share your own unique perspective of the nature of reality we all share - expanding the mental body
 
 `meditate` - seek the peace and calmness within and harmonize your being with the energy of the group and environment - raising the spiritual body
 
