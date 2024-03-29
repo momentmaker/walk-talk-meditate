@@ -15,6 +15,6 @@ ignoreErrors = ["error-disable-taxonomy"]
 [params]
   description = "taking pilgrimage in a new light the open-source way"
   favicon = "images/favicon.png"
-  images = ["images/share.png"]
+  images = ["images/share.jpg"]
   title = "walk ⬡ talk ⬡ meditate"
   hideMadeWithLine = true
