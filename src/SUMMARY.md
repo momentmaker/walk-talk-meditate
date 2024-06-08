@@ -4,8 +4,8 @@
 
 # template
 
-- [template for a pilgrimage]()
-    - [plan out the route]()
+- [template for a pilgrimage](./template.md)
+    - [planning](./planning.md)
     - [gather people together]()
     - [set for the trip]()
     - [write intro]()
