@@ -4,6 +4,8 @@ This is the planning phase of the journey.
 
 Planning is important as it tries to eliminate as much unknowns as possible in the journey to create a nice balance between knowns and unknowns for the whole group.
 
+> "Failing to plan is planning to fail" - Benjamin Franklin
+
 ## people
 
 There are several attributes for people who want to partipate in this journey to make it nice for everyone.

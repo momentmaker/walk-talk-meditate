@@ -6,7 +6,7 @@
 
 - [template for a pilgrimage](./template.md)
     - [planning](./planning.md)
-    - [gather people together]()
+    - [preparing](./preparing.md)
     - [set for the trip]()
     - [write intro]()
     - [take pilgrimage]()
