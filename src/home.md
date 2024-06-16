@@ -18,6 +18,14 @@ We provide the template to start your own pilgrimage based on the idea of `walk-
 
 `meditate` - seek the peace and calmness within and harmonize your being with the energy of the group and environment - raising the spiritual body
 
+---
+
+The goal is to dive deep within your self more so than to connect with others.
+
+This is not just another travel destination where the primary object is sightseeing which stimulates the fear-of-missing-out phenomenon to overload our senses.
+
+Slow and chill is the motto. Relax and release is the practice. Peace and harmony is the way.
+
 # why
 
 It's more important than ever to take the time away from the business of our daily lives in a hyper-connected world.
