@@ -2,6 +2,8 @@
 
 `walk-talk-meditate` is an open-source approach to taking pilgrimages in the physical world to harmonize your state of being.
 
+A decentralized, self-sustaining collective for elevating consciousness through continuous, recursive growth.
+
 # what
 
 This is another iteration of the `walk-n-talk` movement with an extra component for `meditation`.
