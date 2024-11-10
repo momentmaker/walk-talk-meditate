@@ -21,3 +21,8 @@
 - [italy-ananda-7]()
 
 # connect
+
+# resources
+
+- [meditation](./meditation.md)
+- [questions](./questions.md)
