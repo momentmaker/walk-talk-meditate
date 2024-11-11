@@ -1,6 +1,6 @@
 # questions
 
-This is a list of 1000 questions from [savewisdom.org](https://savewisdom.org/) to stimulate the inner reflection and the journey for the pilgrimage.
+This is a list of ~~1000~~ 950 questions from [savewisdom.org](https://savewisdom.org/) to stimulate the inner reflection and the journey for the pilgrimage.
 
 ## Early Life & Formative Experiences
 
